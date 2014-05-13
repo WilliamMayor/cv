@@ -14,8 +14,6 @@ wkhtmltopdf cv2.html cv.pdf
 
 rm cv2.html cv2.html.bak
 
-rm -rf _site
-mkdir _site
-mv cv.html _site/index.html
-mv cv.pdf _site/WilliamMayor-CV.pdf
-mv main.css _site/
+mv cv.html gh-pages/index.html
+mv cv.pdf gh-pages/WilliamMayor-CV.pdf
+mv main.css gh-pages/
