@@ -16,6 +16,6 @@ rm cv2.html cv2.html.bak
 
 rm -rf _site
 mkdir _site
-mv cv.html _site/
-mv cv.pdf _site/
+mv cv.html _site/index.html
+mv cv.pdf _site/WilliamMayor-CV.pdf
 mv main.css _site/
