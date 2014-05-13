@@ -1,8 +1,0 @@
-{
-    "name": "cv",
-    "version": "1.0",
-    "description": "My CV",
-    "dependencies": {
-        "markdown-resume": "~0.1.0"
-    }
-}
