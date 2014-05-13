@@ -1,7 +1,7 @@
 # William Mayor
 ## Full-stack Web Engineer, Systems Administrator
 
-> [Download PDF](cv.pdf)
+> [Download PDF](WilliamMayor-CV.pdf)
 > [www.williammayor.co.uk](http://www.williammayor.co.uk)
 > <jobs@williammayor.co.uk>
 > [+447500222670](tel:+447500222670)
