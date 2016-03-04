@@ -27,3 +27,4 @@ node_modules
 .sass-cache/
 
 gh-pages/
+main.css.map

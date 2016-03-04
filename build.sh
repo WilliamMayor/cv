@@ -1,3 +1,4 @@
+#!/bin/bash
 set -e
 
 sass css/main.scss:main.css
@@ -14,6 +15,8 @@ wkhtmltopdf cv2.html cv.pdf
 
 rm cv2.html cv2.html.bak
 
+rm -rf gh-pages
+mkdir -p gh-pages
 mv cv.html gh-pages/index.html
 mv cv.pdf gh-pages/WilliamMayor-CV.pdf
 mv main.css gh-pages/

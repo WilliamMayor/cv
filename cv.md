@@ -16,32 +16,35 @@
 1. PostgreSQL / MySQL
 1. Knockout.js / jQuery / Underscore.js
 1. SASS / Bourbon / Neat
-1. LaTeX
 1. OS X / Linux
-1. Heroku
+1. Heroku / AWS
+1. Docker / Vagrant
 
 ------
 
 ### Profile
 
-I'm a code monkey at heart; I love building solutions. I am a usability enthusiast, lots of my work at Diversity and Ability focusses around making software and the web accessible and usable. I also enjoy exploring and playing with data. My MRes and MPhil research looked at distributed, peer-to-peer networks with millions of nodes, exploring that data space was a fantastic challenge. In my spare time I like to code, I also enjoy wood turning, cooking, and the occasional video game.
+I'm a code monkey at heart; I love building solutions. I am a usability enthusiast, lots of my work at Diversity and Ability focusses around making software and the web accessible and usable. I also enjoy exploring and playing with data, my MRes research involved simulating million-node networks. I think coding is fun and rewarding and that more people should do it. I work with an educational trust to deliver programming courses to 16-18 year-olds. In my spare time I like to code, I also enjoy wood turning, cooking, and the occasional video game.
 
 ------
 
 ### Experience
 
+ - <p>**BAFTA** *2014 to present*
+   Software Engineer</p>
+ -  I help build and grow BAFTA's commercial offerings. This includes digital media distribution platforms, awards services, and copyright tools.
 
- - <p>**UCL Media Institute** *2014*
-    Software Engineer</p>
- - I built a cross-collection, concept-based search engine for media assets. The beta version can be accessed here: [median.herokuapp.com](http://median.herokuapp.com).
+ - **Technology Media Institute** *2014 to 2015*
+    Software Engineer
+ -  I worked on several Innovate UK projects looking to expand the cutting edge of digital tools in the media industry. I also helped to build, run, and analyse several large-scale Amazon Mechanical Turk user studies.
 
  - **Diversity and Ability** *2009 to present*
-    Systems Administrator, Web Developer
- - I setup, run, and maintain the Google Apps for Business provision for Diversity and Ability. I also work as their sole web developer; rebuilding their entire web ecosystem.
+    Associate Director, Head of IT
+ - I setup, run, and maintain the internal IT provision for Diversity and Ability. I also work as their sole web developer; managing their entire [web ecosystem](https://www.dnamatters.co.uk).
 
  - **Freelance** *2009 to present*
     Software Engineer, Web Developer
- - I have built many websites and software projects. Details of some can be found on my [GitHub page](http://github.com/WilliamMayor).
+ - I have built many websites and software projects. Details of the open source ones can be found on my [GitHub page](http://github.com/WilliamMayor).
 
  - **MRes Dissertation** *2012*
     Researcher
@@ -54,9 +57,6 @@ I'm a code monkey at heart; I love building solutions. I am a usability enthusia
 ------
 
 ### Education
-
-**MPhil Crime and Security Science** *2012 to present*
-    University College London, UK
 
 **MRes Crime and Security Science** *2011 to 2012*
 	University College London, UK
