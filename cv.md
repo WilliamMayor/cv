@@ -52,7 +52,7 @@ I'm a code monkey at heart; I love building solutions. I am a usability enthusia
 
  - **BSc Dissertation** *2011*
     Software Engineer
- - I built a collaborative, real-time, cloud-based IDE using Google Wave technology.
+ - <p>I built a collaborative, real-time, cloud-based IDE using Google Wave technology.</p>
 
 ------
 
