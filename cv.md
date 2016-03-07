@@ -74,6 +74,6 @@ I'm a code monkey at heart; I love building solutions. I am a usability enthusia
 **Atif Choudhury**  *CEO*
     Diversity and Ability
 
-*For privacy reasons, contact details are available on request. Public profiles are available: [Ingemar](http://mediafutures.cs.ucl.ac.uk/people/IngemarCox/), [Atif](http://www.dnamatters.co.uk/about/team/atif.choudhury/)*
+*For privacy reasons, contact details are available on request. Public profiles are available:  [Ingemar](http://mediafutures.cs.ucl.ac.uk/people/IngemarCox/), [Atif](http://www.dnamatters.co.uk/about/team/atif.choudhury/)*
 
 ------
