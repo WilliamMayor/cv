@@ -34,7 +34,7 @@ I'm a code monkey at heart; I love building solutions. I am a usability enthusia
    Software Engineer</p>
  -  I help build and grow BAFTA's commercial offerings. This includes digital media distribution platforms, awards services, and copyright tools.
 
- - **Technology Media Institute** *2014 to 2015*
+ - **The Media Institute** *2014 to 2015*
     Software Engineer
  -  I worked on several Innovate UK projects looking to expand the cutting edge of digital tools in the media industry. I also helped to build, run, and analyse several large-scale Amazon Mechanical Turk user studies.
 
