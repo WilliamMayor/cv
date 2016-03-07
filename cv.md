@@ -14,8 +14,8 @@
 1. HTML / CSS / Javascript
 1. Git
 1. PostgreSQL / MySQL
-1. Knockout.js / jQuery / Underscore.js
-1. SASS / Bourbon / Neat
+1. Knockout.js / Underscore.js / SASS
+1. TDD / Selenium
 1. OS X / Linux
 1. Heroku / AWS
 1. Docker / Vagrant
