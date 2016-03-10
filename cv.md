@@ -24,7 +24,7 @@
 
 ### Profile
 
-I'm a code monkey at heart; I love building solutions. I am a usability enthusiast, lots of my work at Diversity and Ability focusses around making software and the web accessible and usable. I also enjoy exploring and playing with data, my MRes research involved simulating million-node networks. I think coding is fun and rewarding and that more people should do it. I work with an educational trust to deliver programming courses to 16-18 year-olds. In my spare time I like to code, I also enjoy wood turning, cooking, and the occasional video game.
+I'm a code monkey at heart; I love building solutions. I am a usability enthusiast, lots of my work at Diversity and Ability focusses around making software and the web accessible and usable. I think coding is fun and rewarding and that more people should do it. I work with an educational trust to deliver programming courses to 16-18 year-olds. In my spare time I like to code, I also enjoy wood turning, cooking, and the occasional video game.
 
 ------
 
@@ -58,6 +58,9 @@ I'm a code monkey at heart; I love building solutions. I am a usability enthusia
 
 ### Education
 
+**Certificate in Data Protection** *2016*
+    The British Computer Society
+
 **MRes Crime and Security Science** *2011 to 2012*
 	University College London, UK
 
@@ -68,12 +71,10 @@ I'm a code monkey at heart; I love building solutions. I am a usability enthusia
 
 ### References
 
-**Ingemar Cox**  *Director of Research*
+**[Ingemar Cox](http://mediafutures.cs.ucl.ac.uk/people/IngemarCox/)**  *Director of Research*
     Computer Science Department, University College London
 
-**Atif Choudhury**  *CEO*
+**[Atif Choudhury](http://www.dnamatters.co.uk/about/team/atif.choudhury/)**  *CEO*
     Diversity and Ability
-
-*For privacy reasons, contact details are available on request. Public profiles are available:  [Ingemar](http://mediafutures.cs.ucl.ac.uk/people/IngemarCox/), [Atif](http://www.dnamatters.co.uk/about/team/atif.choudhury/)*
 
 ------
