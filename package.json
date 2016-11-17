@@ -1,7 +1,9 @@
 {
     "name": "cv",
-    "version": "1.0",
+    "version": "1.0.0",
     "description": "My CV",
+    "repository": "https://github.com/WilliamMayor/cv",
+    "license": "UNLICENSED",
     "dependencies": {
         "markdown-resume": "~0.1.0"
     }
