@@ -30,7 +30,7 @@ I'm a code monkey at heart; I love building solutions. I am a usability enthusia
 
 ### Experience
 
- - <p>**BAFTA** *2014 to present*
+ - <p>**BAFTA** *2014 to 2016*
    Software Engineer</p>
  -  I help build and grow BAFTA's commercial offerings. This includes digital media distribution platforms, awards services, and copyright tools.
 
@@ -71,8 +71,8 @@ I'm a code monkey at heart; I love building solutions. I am a usability enthusia
 
 ### References
 
-**[Ingemar Cox](http://mediafutures.cs.ucl.ac.uk/people/IngemarCox/)**  *Director of Research*
-    Computer Science Department, University College London
+**[Emma Perry](mailto:emma.perry@bafta.org)**  *Head of BAFTA Media Technology*
+    BAFTA
 
 **[Atif Choudhury](http://www.dnamatters.co.uk/about/team/atif.choudhury/)**  *CEO*
     Diversity and Ability
